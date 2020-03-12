@@ -1,0 +1,46 @@
+<document xml:lang="rus" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>287</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="rus"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Om-UMO/O-UMO</origFileName>
+    <parallel_text xml:lang="eng" location="about-umo.html"/>
+    <parallel_text xml:lang="fin" location="umosta.html"/>
+    <parallel_text xml:lang="swe" location="om-umo.html"/>
+    <parallel_text location="o-umo-u-serbokroatiska.html" xml:lang="hbs"/>
+    <parallel_text location="umo.html" xml:lang="ara"/>
+    <parallel_text location="sobre-umo.html" xml:lang="spa"/>
+    <parallel_text location="umo-en-francais.html" xml:lang="fra"/>
+    <parallel_text location="li-ser-umo.html" xml:lang="kmr"/>
+    <parallel_text location="umo-hakknda.html" xml:lang="tur"/>
+    <parallel_text location="persiska.html" xml:lang="fas"/>
+    <parallel_text location="o-umo-polska.html" xml:lang="pol"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Oб UMO (ryska)</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Oб UMO (ryska)</p>
+    <p>Перевести UMO на русский</p>
+    <p>UMO – это шведская молодежная консультация в Интернет-пространстве, созданная для подростков и молодежи в возрасте 13-25 лет. Цель сайта – помочь юношам и девушкам в поиске нужной, свежей и качественной информации о сексе, здоровье и взаимоотношениях. UMO работает над тем, чтобы подростки и молодежь имели равные условия и возможности для своего развития и обеспечения свободы действий. UMO распространяет среди молодежи информацию и знания, которые дают пищу для размышлений и новых идей, благодаря чему молодые люди могут изменить условия своей жизни дома, во взаимоотношениях с другими людьми, в школе или на работе. Осознав свои права и обязанности, юноши и девушки могут в большей степени проявлять инициативу и принимать самостоятельные решения. UMO – это веб-сайт, ориентированный на все группы подростков и молодежи, без какого-либо исключения. Здесь можно критиковать, обсуждать и подвергать сомнению любые общепринятые нормы. Большое внимание уделяется тому, чтобы сайт был интересным и легко доступным для всех, поэтому в редакции UMO имеется специалист по обеспечению доступности материала. Это единственный в Швеции национальный информационный портал, знакомящий с деятельностью медицинских учреждений и органов здравоохранения. Разработка сайта UMO финансируется за счет Шведского агентства социального развития и здравоохранения, действующего по заказу Министерства интеграции и гендерного равноправия. Техническую и финанасовую поддержку сайта обеспечивают также структуры ландстингов и муниципалитетов. Развитие UMO осуществляется в тесном сотрудничестве с обществом <span type="quote">«Молодежь Швеции»</span>, молодежными консультациями страны, учреждениями школьного здравоохранения, общественными организациями и другими заинтересованными сторонами, которые занимаются вопросами молодежи. В настоящее время текстовое содержание сайта UMO переведено на другие языки. Упрощенный перевод сайта на интересующий вас язык можно сделать, воспользовавшись переводческим инструментом компании Google. Для этого нужно нажать выше указанную ссылку. Мы надеемся, что это поможет вам познакомиться с некоторыми материалами сайта UMO.</p>
+  </body>
+</document>

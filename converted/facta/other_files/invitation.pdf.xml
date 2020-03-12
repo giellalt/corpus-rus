@@ -1,0 +1,31 @@
+<document xml:lang="rus" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>103</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <origFileName>invitation</origFileName>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p><em type="italic">Приглашение</em> </p>
+    <p>Уважаем ____________________________________________________________</p>
+    <p>Мурманский областной краеведческий музей приглашает на открытие новой саамской документальной выставки <span type="quote">«Многообразие и культура земли и народа саами»</span> - <span type="quote">«Югкеналшэм cāмь нāрэд культура»</span></p>
+    <p>Время проведения: <em type="italic">24 мая 2011 года в 13 часов</em> Место проведения: Здание Музея по адресу г. <em type="italic">Мурманск, проспект Ленина, д. 90</em> </p>
+    <p>Выставка продлится с 24 мая по 24 июня 2011 года</p>
+    <p><em type="italic">Ня̄ввэм кыррьй</em> </p>
+    <p>Коaллэш____________________________________________________________</p>
+    <p>Пājjклэш Куэллнэгк нёарк Музей коаххч то̄н по̄дтӭ ōд сāмь вуэзхэлмушшэ: <span type="quote">«Югкеналшэм cāмь нāрэд культура»</span></p>
+    <p>Тэдт вуэзхэлмушш оаввант 24. пейвесьт кыдтманэсьт, āййк: 13.00 чāсэсьт Сайй: Музей пэ̄ҏҏтэсьт тэннэ āдрес мӣлльтэ: Мӯрман лāннҍ, Ленин ēткас 90.</p>
+    <p>Вуэзхэлмушш манн: 24. кыдтманэсьт – 24. кēссьманэсьт 2011 ыгкэсьт</p>
+  </body>
+</document>

@@ -1,0 +1,36 @@
+<document xml:lang="rus" id="no_id">
+  <header>
+    <title/>
+    <genre code="laws"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>109</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <parallel_text xml:lang="kpv" location="u-1-12.doc"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="udm">КОМИ РЕСПУБЛИКАСА ЮРАЛЫСЬЛÖН <em type="bold"></em></p>
+    <p xml:lang="udm"><em type="bold">ИНДÖД </em></p>
+    <p xml:lang="udm"><em type="bold">УКАЗ </em></p>
+    <p xml:lang="udm">ГЛАВЫ РЕСПУБЛИКИ КОМИ</p>
+    <p xml:lang="udm"><em type="bold">О </em><em type="bold">внесении изменения в </em><em type="bold">Указ Главы </em><em type="bold">Республики Коми </em><em type="bold"></em></p>
+    <p xml:lang="myv">от 17 февраля 2011 г. № 17 <span type="quote" xml:lang="udm">«О Правительстве Республики Коми»</span></p>
+    <p xml:lang="udm"><em type="bold"></em>На основании пункта 3 статьи 84 Конституции Республики Коми, пункта 3 статьи 7 Закона Республики Коми <span type="quote" xml:lang="udm">«О должностных лицах и органах исполнительной власти Республики Коми»</span> постановляю: </p>
+    <p xml:lang="myv">1. Внести в Указ Главы Республики Коми от 17 февраля 2011 г. № 17 <span type="quote" xml:lang="udm">«О Правительстве Республики Коми»</span> следующее изменение:</p>
+    <p xml:lang="udm">исключить из состава Правительства Республики Коми (приложение № 1 к Указу) Шеремета А.И.</p>
+    <p xml:lang="myv">2. Настоящий Указ вступает в силу со дня его подписания.</p>
+    <p xml:lang="koi">Глава Республики Коми В. Гайзер</p>
+    <p xml:lang="koi">г. Сыктывкар</p>
+    <p xml:lang="mdf">12 января 2012 г.</p>
+    <p xml:lang="mdf">№ 1</p>
+  </body>
+</document>
