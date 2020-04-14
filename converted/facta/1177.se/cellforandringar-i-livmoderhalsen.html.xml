@@ -1,51 +1,19 @@
-<document xml:lang="rus" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>278</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rus"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Ryska/Symtom_sjukdom/Cellforandringar-i-livmoderhalsen</origFileName>
-    <parallel_text xml:lang="eng" location="cellforandringar-i-livmoderhalsen.html"/>
-    <parallel_text xml:lang="fin" location="cellforandringar-i-livmoderhalsen.html"/>
-    <parallel_text xml:lang="swe" location="cellforandringa.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Изменения клеток шейки матки / Cellförändringar i livmoderhalsen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p></p>
-    <p></p>
-    <p type="title">PусскийRyska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Изменения клеток шейки маткиCellförändringar i livmoderhalsen</p>
-    <p></p>
-    <p type="title">Обзор</p>
-    <p type="title">Общая информация</p>
-    <p>Шейка матки – это нижняя часть матки. Самая нижняя ее часть называется влага- лищной частью, и там могут возникнуть изменения клеток. Чаще всего это не означает заболевание, но в редких случаях клеточные изменения могут развиться в рак, что зачастую занимает несколько лет. Если регулярно проходить цитологичес- кий контроль, эти изменения возможно обнаружить и заблаговременно получить лечение.</p>
-    <p>Изменения в клетках, приводящие к раку, чаще всего спровоцированы заражением вирусом, передающимся половым путем. Можно отчасти защитить себя, используя презерватив. Можно также сделать при- вивку против нескольких видов наиболее обычных вирусов, провоцирующих раз- витие рака. Чтобы получить наилучшую озможную защиту, прививку следует сделать до первого полового контакта.</p>
-    <p>Плохая наследственность в известной степени влияет на риск возникновения изменений клеток шейки матки. Курение также увеличивает риск.</p>
-    <p type="title">Симптомы</p>
-    <p>При изменении клеток не возникает никаких симптомов или беспокойств. Их возможно обнаружить только сдав цито- логический мазок (соскоб) на анализ.</p>
-    <p type="title">Лечение</p>
-    <p>Большинство клеточных изменений проходят сами собой. Если требуется лечение, их удаляют в ходе небольшой операции. Их также можно удалить при помощи воздействия высоких темпера- тур, замораживания, или лазером. Во время процедуры, которую проводят в больнице или гинекологической при- емной, делают местную анестезию или дают наркоз. Как правило, домой вер- нуться можно в тот же день.</p>
-    <p>После этой процедуры самочувствие обычное, но следует избегать полового контакта в течение трех-четырех недель.</p>
-    <p type="title">Когда следует обратиться за медицинской помощью?</p>
-    <p>Поскольку клеточные изменения не вызывают никаких беспокойств, важно проходить предлагаемый ландстингом цитологический контроль.</p>
-    <p>Всегда можно позвонить в Медицинскую консультацию (sjukvårdsrådgivningen), где подскажут, куда можно обратиться для прохождения цитологического контроля.</p>
-  </body>
-</document>
+<document xml:lang="rus" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>272</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rus"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Other-languages/Ryska/Symtom_sjukdom/Cellforandringar-i-livmoderhalsen</origFileName><parallel_text xml:lang="eng" location="cellforandringar-i-livmoderhalsen.html"/><parallel_text xml:lang="fin" location="cellforandringar-i-livmoderhalsen.html"/><parallel_text xml:lang="swe" location="cellforandringa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Изменения клеток шейки матки / Cellförändringar i livmoderhalsen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Изменения клеток шейки маткиCellförändringar i livmoderhalsen</p>
+<p xml:lang="swe"></p>
+<p type="title">Обзор</p>
+<p type="title">Общая информация</p>
+<p>Шейка матки – это нижняя часть матки. Самая нижняя ее часть называется влага- лищной частью, и там могут возникнуть изменения клеток. Чаще всего это не означает заболевание, но в редких случаях клеточные изменения могут развиться в рак, что зачастую занимает несколько лет. Если регулярно проходить цитологичес- кий контроль, эти изменения возможно обнаружить и заблаговременно получить лечение.</p>
+<p>Изменения в клетках, приводящие к раку, чаще всего спровоцированы заражением вирусом, передающимся половым путем. Можно отчасти защитить себя, используя презерватив. Можно также сделать при- вивку против нескольких видов наиболее обычных вирусов, провоцирующих раз- витие рака. Чтобы получить наилучшую озможную защиту, прививку следует сделать до первого полового контакта.</p>
+<p>Плохая наследственность в известной степени влияет на риск возникновения изменений клеток шейки матки. Курение также увеличивает риск.</p>
+<p type="title">Симптомы</p>
+<p>При изменении клеток не возникает никаких симптомов или беспокойств. Их возможно обнаружить только сдав цито- логический мазок (соскоб) на анализ.</p>
+<p type="title">Лечение</p>
+<p>Большинство клеточных изменений проходят сами собой. Если требуется лечение, их удаляют в ходе небольшой операции. Их также можно удалить при помощи воздействия высоких темпера- тур, замораживания, или лазером. Во время процедуры, которую проводят в больнице или гинекологической при- емной, делают местную анестезию или дают наркоз. Как правило, домой вер- нуться можно в тот же день.</p>
+<p>После этой процедуры самочувствие обычное, но следует избегать полового контакта в течение трех-четырех недель.</p>
+<p type="title">Когда следует обратиться за медицинской помощью?</p>
+<p>Поскольку клеточные изменения не вызывают никаких беспокойств, важно проходить предлагаемый ландстингом цитологический контроль.</p>
+<p>Всегда можно позвонить в Медицинскую консультацию (sjukvårdsrådgivningen), где подскажут, куда можно обратиться для прохождения цитологического контроля.</p>
+</body></document>
