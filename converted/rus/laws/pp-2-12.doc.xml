@@ -1,35 +1,14 @@
-<document xml:lang="rus" id="no_id">
-  <header>
-    <title/>
-    <genre code="laws"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>117</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <parallel_text xml:lang="kpv" location="pp-2-12.doc"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="udm"><em type="bold">КОМИ РЕСПУБЛИКАСА ПРАВИТЕЛЬСТВОЛÖН </em></p>
-    <p xml:lang="udm"><em type="bold">Ш У Ö М </em></p>
-    <p xml:lang="mdf"><em type="bold">ПРАВИТЕЛЬСТВО РЕСПУБЛИКИ К </em><em type="bold">О </em><em type="bold">МИ </em></p>
-    <p xml:lang="udm">П О С Т А Н О В Л Е Н И Е</p>
-    <p xml:lang="mdf">от 12 января 2012 г. № 2</p>
-    <p xml:lang="koi">г. Сыктывкар</p>
-    <p xml:lang="myv"><em type="bold">О наложении карантина по золотистой картофельной нематоде </em><em type="bold"></em></p>
-    <p xml:lang="udm"><em type="bold">в границах административной территории села Ыб </em></p>
-    <p>Сыктывдинского ра й она с подчиненной ему территорией</p>
-    <p>В соответствии со статьей 6 Федерального закона <span type="quote" xml:lang="mdf">«О карантине растений»</span> Правительство Республики Коми постановляет:</p>
-    <p xml:lang="myv">1. Наложить карантин по золотистой картофельной нематоде (Globodera rostochiensis (Woll.) Behrens.) в границах административной территории села Ыб Сыктывдинского района с подчиненной ему территорией.</p>
-    <p>2. Рекомендовать органам местного самоуправления муниципального района <span type="quote">«Сыктывдинский»</span> организовать выполнение мероприятий по борьбе с карантинными объектами в соответствии с законодательством.</p>
-    <p xml:lang="koi">Глава Республики Коми В. Гайзер</p>
-  </body>
-</document>
+<document xml:lang="rus" id="no_id"><header><title/><genre code="laws"/><author><unknown/></author><wordcount>117</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><parallel_text xml:lang="kpv" location="pp-2-12.doc"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="udm"><em type="bold">КОМИ РЕСПУБЛИКАСА ПРАВИТЕЛЬСТВОЛÖН </em></p>
+<p xml:lang="mrj"><em type="bold">Ш У Ö М </em></p>
+<p xml:lang="mdf"><em type="bold">ПРАВИТЕЛЬСТВО РЕСПУБЛИКИ К </em><em type="bold">О </em><em type="bold">МИ </em></p>
+<p xml:lang="udm">П О С Т А Н О В Л Е Н И Е</p>
+<p xml:lang="mdf">от 12 января 2012 г. № 2</p>
+<p xml:lang="koi">г. Сыктывкар</p>
+<p xml:lang="myv"><em type="bold">О наложении карантина по золотистой картофельной нематоде </em><em type="bold"></em></p>
+<p xml:lang="udm"><em type="bold">в границах административной территории села Ыб </em></p>
+<p>Сыктывдинского ра й она с подчиненной ему территорией</p>
+<p>В соответствии со статьей 6 Федерального закона <span type="quote" xml:lang="mdf">«О карантине растений»</span> Правительство Республики Коми постановляет:</p>
+<p xml:lang="myv">1. Наложить карантин по золотистой картофельной нематоде (Globodera rostochiensis (Woll.) Behrens.) в границах административной территории села Ыб Сыктывдинского района с подчиненной ему территорией.</p>
+<p>2. Рекомендовать органам местного самоуправления муниципального района <span type="quote">«Сыктывдинский»</span> организовать выполнение мероприятий по борьбе с карантинными объектами в соответствии с законодательством.</p>
+<p xml:lang="koi">Глава Республики Коми В. Гайзер</p>
+</body></document>

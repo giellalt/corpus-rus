@@ -1,37 +1,16 @@
-<document xml:lang="rus" id="no_id">
-  <header>
-    <title> 
+<document xml:lang="rus" id="no_id"><header><title> 
 Проект
-</title>
-    <genre code="laws"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>131</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <parallel_text xml:lang="kpv" location="gs-v-3-28-12.doc"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="udm"><em type="bold">О </em><em type="bold">депутатах </em><em type="bold">Государственного Совета Республики Коми </em><em type="bold">, уполномоченных на посещение мест содержания </em><em type="bold"></em></p>
-    <p><em type="bold">под стражей </em><em type="bold"></em><em type="bold">подозреваемых и обвиняемых </em><em type="bold"></em></p>
-    <p xml:lang="udm">На основании статьи 15 1 Закона Республики Коми <span type="quote" xml:lang="udm">"О статусе депутата Государственного Совета Республики Коми"</span> Государственный Совет Республики Коми постановляет:</p>
-    <p>1. В целях осуществления контроля уполномочить на посещение без специального разрешения на территории Республики Коми следственных изоляторов уголовно-исполнительной системы, изоляторов временного содержания подозреваемых и обвиняемых органов внутренних дел, а также иных мест содержания под стражей подозреваемых и обвиняемых в соответствии со статьей 7 Федерального закона <span type="quote">"О содержании под стражей подозреваемых и обвиняемых в совершении преступлений"</span> депутатов Государственного Совета Республики Коми V созыва.</p>
-    <p>2. Настоящее Постановление вступает в силу со дня его официального опубликования.</p>
-    <p>Председатель</p>
-    <p>Государственного Совета</p>
-    <p xml:lang="udm">Республики Коми М.Д. Истиховская</p>
-    <p xml:lang="koi">г. Сыктывкар</p>
-    <p>16 февраля 2012 года</p>
-    <p xml:lang="vep">№ V-3/28</p>
-    <p xml:lang="mns">Аксёнова, 28 56 73</p>
-    <p xml:lang="udm">ШС 17.02.2012</p>
-  </body>
-</document>
+</title><genre code="laws"/><author><unknown/></author><wordcount>131</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><parallel_text xml:lang="kpv" location="gs-v-3-28-12.doc"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="udm"><em type="bold">О </em><em type="bold">депутатах </em><em type="bold">Государственного Совета Республики Коми </em><em type="bold">, уполномоченных на посещение мест содержания </em><em type="bold"></em></p>
+<p><em type="bold">под стражей </em><em type="bold"></em><em type="bold">подозреваемых и обвиняемых </em><em type="bold"></em></p>
+<p xml:lang="udm">На основании статьи 15 1 Закона Республики Коми <span type="quote" xml:lang="udm">"О статусе депутата Государственного Совета Республики Коми"</span> Государственный Совет Республики Коми постановляет:</p>
+<p>1. В целях осуществления контроля уполномочить на посещение без специального разрешения на территории Республики Коми следственных изоляторов уголовно-исполнительной системы, изоляторов временного содержания подозреваемых и обвиняемых органов внутренних дел, а также иных мест содержания под стражей подозреваемых и обвиняемых в соответствии со статьей 7 Федерального закона <span type="quote">"О содержании под стражей подозреваемых и обвиняемых в совершении преступлений"</span> депутатов Государственного Совета Республики Коми V созыва.</p>
+<p>2. Настоящее Постановление вступает в силу со дня его официального опубликования.</p>
+<p>Председатель</p>
+<p>Государственного Совета</p>
+<p xml:lang="udm">Республики Коми М.Д. Истиховская</p>
+<p xml:lang="koi">г. Сыктывкар</p>
+<p>16 февраля 2012 года</p>
+<p xml:lang="vep">№ V-3/28</p>
+<p xml:lang="mns">Аксёнова, 28 56 73</p>
+<p xml:lang="udm">ШС 17.02.2012</p>
+</body></document>

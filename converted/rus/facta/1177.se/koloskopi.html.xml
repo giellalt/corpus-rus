@@ -1,53 +1,21 @@
-<document xml:lang="rus" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>263</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="rus"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Ryska/Undersokningarprover/Koloskopi</origFileName>
-    <parallel_text xml:lang="eng" location="koloskopi.html"/>
-    <parallel_text xml:lang="fin" location="koloskopi.html"/>
-    <parallel_text xml:lang="swe" location="koloskopi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Колоноскопия / Koloskopi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p></p>
-    <p></p>
-    <p type="title">PусскийRyska</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title">КолоноскопияKoloskopi</p>
-    <p></p>
-    <p type="title">Обзор</p>
-    <p type="title">Общая информация</p>
-    <p>Колоноскопия означает исследование тол- стой кишки при помощи гибкого шланга – так называемого колоноскопа. Обследо- вание может потребоваться пройти, если есть кровь в кале, если запор или понос. С помощью колоноскопа врач может также взять образцы тканей на анализ и прово- дить лечение.</p>
-    <p>Колоноскопия может указать, например, есть ли в толстой кишке язвы или опухо- ли, или воспалена ли кишка.</p>
-    <p>Тем, у кого есть проблемы с сердцем или легкими, надо рассказать об этом врачу. То же самое относится к принимающим инсулин или антикоагулянты.</p>
-    <p type="title">Подготовка</p>
-    <p>До обследования надо опорожнить содер- жимое кишки при помощи слабительного средства. Тем, кто принимает лекарства, содержащие клетчатку или железо, следует прекратить прием за неделю до осмотра.</p>
-    <p type="title">Как проходит обследование?</p>
-    <p>До обследования заднепроходное отвер- стие обезболивают с помощью небольшо- го количества мази. После этого ложатся на кушетку, а врач вводит колоноскоп через прямую кишку.</p>
-    <p>Обследование иногда может быть болез- ненным или неприятным в момент введе- ния колоноскопа, но при необходимости дают расслабляющие и болеутоляющие лекарства.</p>
-    <p>Обследование может занять от четверти часа до часа.</p>
-    <p type="title">Самочувствие после?</p>
-    <p>После обследования возможно ощущение напряженности и вздутия живота из-за накачанного воздуха. Также может воз- никнуть резь. Неприятные ощущения, как правило, исчезают, когда выходит воздух. После обследования можно пить и есть все, что и обычно.</p>
-    <p>Те, кто принял успокоительное, остаются в приемной врача на час или два. Нельзя водить машину до следующего дня.</p>
-    <p>Хорошо было бы привести кого-то вместе с собой на обследование, а еще может потребоваться взять отгул на работе до конца дня.</p>
-  </body>
-</document>
+<document xml:lang="rus" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>257</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="rus"/><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Other-languages/Ryska/Undersokningarprover/Koloskopi</origFileName><parallel_text xml:lang="eng" location="koloskopi.html"/><parallel_text xml:lang="fin" location="koloskopi.html"/><parallel_text xml:lang="swe" location="koloskopi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Колоноскопия / Koloskopi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">КолоноскопияKoloskopi</p>
+<p xml:lang="swe"></p>
+<p type="title">Обзор</p>
+<p type="title">Общая информация</p>
+<p>Колоноскопия означает исследование тол- стой кишки при помощи гибкого шланга – так называемого колоноскопа. Обследо- вание может потребоваться пройти, если есть кровь в кале, если запор или понос. С помощью колоноскопа врач может также взять образцы тканей на анализ и прово- дить лечение.</p>
+<p>Колоноскопия может указать, например, есть ли в толстой кишке язвы или опухо- ли, или воспалена ли кишка.</p>
+<p>Тем, у кого есть проблемы с сердцем или легкими, надо рассказать об этом врачу. То же самое относится к принимающим инсулин или антикоагулянты.</p>
+<p type="title">Подготовка</p>
+<p>До обследования надо опорожнить содер- жимое кишки при помощи слабительного средства. Тем, кто принимает лекарства, содержащие клетчатку или железо, следует прекратить прием за неделю до осмотра.</p>
+<p type="title">Как проходит обследование?</p>
+<p>До обследования заднепроходное отвер- стие обезболивают с помощью небольшо- го количества мази. После этого ложатся на кушетку, а врач вводит колоноскоп через прямую кишку.</p>
+<p>Обследование иногда может быть болез- ненным или неприятным в момент введе- ния колоноскопа, но при необходимости дают расслабляющие и болеутоляющие лекарства.</p>
+<p>Обследование может занять от четверти часа до часа.</p>
+<p type="title">Самочувствие после?</p>
+<p>После обследования возможно ощущение напряженности и вздутия живота из-за накачанного воздуха. Также может воз- никнуть резь. Неприятные ощущения, как правило, исчезают, когда выходит воздух. После обследования можно пить и есть все, что и обычно.</p>
+<p>Те, кто принял успокоительное, остаются в приемной врача на час или два. Нельзя водить машину до следующего дня.</p>
+<p>Хорошо было бы привести кого-то вместе с собой на обследование, а еще может потребоваться взять отгул на работе до конца дня.</p>
+</body></document>
