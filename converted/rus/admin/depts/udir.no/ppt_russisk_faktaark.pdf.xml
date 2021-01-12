@@ -1,27 +1,44 @@
-<document xml:lang="rus" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>579</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="rus"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_russisk_faktaark.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_faktaark.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-faktaark.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_faktaark.pdf"/><parallel_text xml:lang="sma" location="ppt_sorsamisk_faktaark.pdf"/><parallel_text xml:lang="sme" location="ppt_nordsamisk_faktaark.pdf"/><parallel_text xml:lang="smj" location="ppt_lulesamisk_faktaark.pdf"/><parallel_text location="ppt_arabisk_faktaark.pdf" xml:lang="ara"/><parallel_text location="ppt_vietnamesisk_faktaark.pdf" xml:lang="vie"/><parallel_text location="ppt_persisk_faktaark.pdf" xml:lang="fas"/><parallel_text location="ppt_fransk_faktaark.pdf" xml:lang="fra"/><parallel_text location="ppt_sorani_faktaark.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_faktaark.pdf" xml:lang="urd"/><parallel_text location="ppt_somalisk_faktaark.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_faktaark.pdf" xml:lang="tur"/><parallel_text location="ppt_polsk_faktaark.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Информация о Психолого-педагогической службе </em></p>
+<document xml:lang="rus" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>575</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="rus"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_russisk_faktaark.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_faktaark.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-faktaark.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_faktaark.pdf"/><parallel_text xml:lang="sma" location="ppt_sorsamisk_faktaark.pdf"/><parallel_text xml:lang="sme" location="ppt_nordsamisk_faktaark.pdf"/><parallel_text xml:lang="smj" location="ppt_lulesamisk_faktaark.pdf"/><parallel_text location="ppt_arabisk_faktaark.pdf" xml:lang="ara"/><parallel_text location="ppt_vietnamesisk_faktaark.pdf" xml:lang="vie"/><parallel_text location="ppt_persisk_faktaark.pdf" xml:lang="fas"/><parallel_text location="ppt_fransk_faktaark.pdf" xml:lang="fra"/><parallel_text location="ppt_sorani_faktaark.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_faktaark.pdf" xml:lang="urd"/><parallel_text location="ppt_somalisk_faktaark.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_faktaark.pdf" xml:lang="tur"/><parallel_text location="ppt_polsk_faktaark.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="nob">Endelig versjon 19.11.2012 1</p>
+<p><em type="bold">Информация о Психолого-педагогической службе </em></p>
 <p><em type="bold">Психолого-педагогическая служба (PPT) </em></p>
-<p>Психолого-педагогическая служба (часто используются сокращения PPT или Служба PP) является муниципальным или губернским (фюльке) консультативным органом. Служба призвана помогать детям, подросткам и взрослым, которые испытывают трудности в своем развитии или в обучении.</p>
+<p>Психолого-педагогическая служба (часто используются сокращения PPT или Служба PP) является муниципальным или губернским (фюльке) консультативным органом.</p>
+<p>Служба призвана помогать детям, подросткам и взрослым, которые испытывают трудности в своем развитии или в обучении.</p>
 <p>Служба PP призвана, в числе прочего, оказывать детским садам и школам совещательные и консультационные услуги для коррекции нуждающихся в этом детей/учеников.</p>
 <p>Служба PP призвана оказывать содействие школам в улучшении программ обучения для учеников с особыми потребностями.</p>
 <p>Сотрудники Службы PP обязаны хранить служебную тайну. Сведения о ребенке/ученике не подлежат разглашению, и не могут передаваться в другие инстанции без согласия родителей. Информация о ребенке/ученике хранится в отдельном журнале/папке согласно правилам, установленным Инспекцией по информации.</p>
 <p><em type="bold">Чем занимается Служба PP? </em></p>
-<p>Служба PP проводит проверки и предоставляет советы и консультации в отношении детей, подростков и взрослых, испытывающих трудности в следующих областях</p>
-<p type="listitem">• трудности с языком и речью • трудности в общем обучении или в обучении отдельным предметам • трудности с чтением и письмом • трудности с математикой • трудности с концентрацией внимания • проблемы социального и эмоционального характера • проблемы с поведением • проблемы со зрением и слухом</p>
+<p type="listitem">Служба PP проводит проверки и предоставляет советы и консультации в отношении детей, подростков и взрослых, испытывающих трудности в следующих областях</p>
+<p type="listitem">трудности с языком и речью</p>
+<p type="listitem">трудности в общем обучении или в обучении отдельным предметам</p>
+<p type="listitem">трудности с чтением и письмом</p>
+<p type="listitem">трудности с математикой</p>
+<p type="listitem">трудности с концентрацией внимания</p>
+<p type="listitem">проблемы социального и эмоционального характера</p>
+<p type="listitem">проблемы с поведением</p>
+<p type="listitem">проблемы со зрением и слухом</p>
 <p><em type="bold">Как родителям связаться со Службой PP? </em></p>
 <p>Прежде чем связаться со Службой PP, вам следует сначала обсудить вашу обеспокоенность за ребенка с персоналом медицинского кабинета/детского сада/школы. Ученики старше 15 лет также могут связаться со Службой PP. Служба PP также может оказать поддержку взрослым, желающим пройти курс обучения начальной школы.</p>
 <p>И частные лица, и организации (детские сады, школы и др.) могут на условиях анонимности связаться со Службой и получить консультацию.</p>
 <p>В случае если имеется потребность в дополнительной помощи со стороны Службы PP, ребенка/ученика могут направить в Службу PP. При направлении в Службу PP обычно используется бланк напрвления, см. домашнюю страницу администрации вашего муниципалитета/фюльке. За помощью в заполнении анкеты можно обращаться в детский сад/школу.</p>
-<p xml:lang="nob">1</p>
-<p>Другие инстанции, которые могут направить в Службу PP:</p>
-<p type="listitem">• Десткий сад, школа и  программа обучения взрослых (voksenopplæringen).</p>
-<p type="listitem">• Женская консультация и больница с согласия родителей, если ребенку/ученику еще не исполнилось 15 лет.</p>
+<p xml:lang="nob">Endelig versjon 19.11.2012 2</p>
+<p type="listitem">Другие инстанции, которые могут направить в Службу PP:</p>
+<p type="listitem">Десткий сад, школа и  программа обучения взрослых (voksenopplæringen).</p>
+<p>Женская консультация и больница с согласия родителей, если ребенку/ученику еще не исполнилось 15 лет.</p>
 <p>Ученик или его родители могут потребовать от школы провести проверку для выяснения потребности ученика в специальной программе обучения, а также того, какая именно программа обучения необходима ученику.</p>
-<p><em type="bold">Как функционирует Служба PP? </em>Служба PP сотрудничает, в чиле прочего, с детскими садами и школами для выработки индивидуального плана согласно способностям и потребностям ребенка/ученика.  Порядок рассмотрения дел в Службе PP можно разделить на три фазы: </p>
-<p>1. <em type="italic">Проведение проверок </em>При поступлении в Службу PP направления/уведомления, обычно запрашивают родителей, в содействии с детским садом и школой, какую помощь они желают получить. Посредством бесед/интервью, наблюдений и тестов Служба PP создает наиболее полную картину относительно способностей и потребностей ребенка/ученика. Проведение проверок производится в детском саде, в школе, или в помещении Службы PP.  </p>
-<p>2. <em type="italic">Экспертная оценка/рекомендации  </em>По результатом проверки Служба PP составляет экспертную оценку </p>
-<p>(письменный отчет) и рекомендует возможные меры по созданию условий в детском саду или в ситуации с обучением, исходя из способностей ребенка/ученика. Служба PP предоставляет экспертные рекомендации. Наиболее распространенными областями для рекомендаций являются оценка необходимости дефектологической помощи детям дошкольного возраста и программа специального обучения учеников.</p>
-<p><em type="bold">3. </em><em type="italic">Контрольные мероприятия </em>Служба PP может организовать контрольные мероприятия в виде советов/консультаций родителям, работникам детского сада и учителям в школе. Служба PP может организовать дополнительные беседы с конкретным учеником, а при необходимости направить его далее по инстанции.   <em type="bold"> </em></p>
-<p>Работа Службы PP базируется, в числе прочего, на следующих статьях Закона об образовании: <em type="bold"> </em></p>
-<p><em type="italic">§ 5- 1 Право на специальное обучение  § 5-3 Экспертная оценка § 5-4 Порядок рассмотрения дел ввиду решения о специальном обучении </em>§ 5-6 <em type="italic">Психолого-педагогическая служба</em> § 5-7 <em type="italic">Дефектологическая помощь детям дошкольного возраста</em> </p>
-<p xml:lang="nob">2</p>
+<p><em type="bold">Как функционирует Служба PP? </em></p>
+<p>Служба PP сотрудничает, в чиле прочего, с детскими садами и школами для выработки индивидуального плана согласно способностям и потребностям ребенка/ученика.</p>
+<p>Порядок рассмотрения дел в Службе PP можно разделить на три фазы: 1.</p>
+<p>Проведение проверок</p>
+<p>При поступлении в Службу PP направления/уведомления, обычно запрашивают родителей, в содействии с детским садом и школой, какую помощь они желают получить. Посредством бесед/интервью, наблюдений и тестов Служба PP создает наиболее полную картину относительно способностей и потребностей ребенка/ученика. Проведение проверок производится в детском саде, в школе, или в помещении Службы PP. 2.</p>
+<p>Экспертная оценка/рекомендации</p>
+<p>По результатом проверки Служба PP составляет экспертную оценку (письменный отчет) и рекомендует возможные меры по созданию условий в детском саду или в ситуации с обучением, исходя из способностей ребенка/ученика. Служба PP предоставляет экспертные рекомендации. Наиболее распространенными областями для рекомендаций являются оценка необходимости дефектологической помощи детям дошкольного возраста и программа специального обучения учеников. <em type="bold">3. </em></p>
+<p>Контрольные мероприятия</p>
+<p>Служба PP может организовать контрольные мероприятия в виде советов/консультаций родителям, работникам детского сада и учителям в школе.</p>
+<p>Служба PP может организовать дополнительные беседы с конкретным учеником, а при необходимости направить его далее по инстанции. <em type="bold"></em></p>
+<p>Работа Службы PP базируется, в числе прочего, на следующих статьях Закона об образовании: <em type="bold"></em><em type="italic">§ 5- 1 </em></p>
+<p><em type="italic">Право на специальное обучение </em><em type="italic">§ 5-3 </em></p>
+<p><em type="italic">Экспертная оценка </em><em type="italic">§ 5-4 </em></p>
+<p><em type="italic">Порядок рассмотрения дел ввиду решения о специальном обучении </em>§ 5-6 </p>
+<p><em type="italic">Психолого-педагогическая служба </em>§ 5-7 </p>
+<p><em type="italic">Дефектологическая помощь детям дошкольного возраста </em></p>
 </body></document>
