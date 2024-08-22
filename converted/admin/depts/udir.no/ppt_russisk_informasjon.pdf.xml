@@ -1,4 +1,5 @@
-<document xml:lang="rus" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1254</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="rus"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_russisk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Психолого-педагогическая служба</p>
+<document xml:lang="rus" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1272</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="rus"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_russisk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text xml:lang="ara" location="ppt_arabisk_informasjon.pdf"/><parallel_text xml:lang="vie" location="ppt_vietnamesisk_informasjon.pdf"/><parallel_text xml:lang="ckb" location="ppt_sorani_informasjon.pdf"/><parallel_text xml:lang="urd" location="ppt_urdu_informasjon.pdf"/><parallel_text xml:lang="fra" location="ppt_fransk_informasjon.pdf"/><parallel_text xml:lang="som" location="ppt_somalisk_informasjon.pdf"/><parallel_text xml:lang="tur" location="ppt_tyrkisk_informasjon.pdf"/><parallel_text xml:lang="fas" location="ppt_persisk_informasjon.pdf"/><parallel_text xml:lang="pol" location="ppt_polsk_informasjon.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="nob">Endelig versjon 19.11.2012</p>
+<p>Психолого-педагогическая служба</p>
 <p>Психолого-педагогическая служба (Служба PP) является совещательной и экспертной инстанцией в вопросах развития, обучения и создания благоприятных условий для детей дошкольного возраста и учеников начальной школы и старшеклассников. Служба PP также оказывает помощь взрослым, которым необходимо закончить курс образования начальной школы. Работа Службы PP базируется на положениях Закона об образовании (ЗО). Служба PP оказывает профессиональные услуги детским садам/школам с целью создания лучших условий для обучения детей и учеников с особыми потребностями.</p>
 <p type="listitem">Служба PP</p>
 <p type="listitem">может предоставлять детским садам и школам, в числе прочего, советы и консультации о педагогических приемах управления в группах и в среде обучения</p>
@@ -19,6 +20,7 @@
 <p type="listitem">прием подростков в старшие классы на особых основаниях (§ 3-1, часть шестая)</p>
 <p type="listitem">продление срока обучения в старших классах (§ 3-1, часть пятая)</p>
 <p>Задачи</p>
+<p xml:lang="nob">Endelig versjon 19.11.2012</p>
 <p>Служба PP проводит проверки и предоставляет советы и консультации в отношении детей, подростков и взрослых, испытывающих трудности, которые могут сказаться на обучении.</p>
 <p type="listitem">Примерами подобных трудностей являются</p>
 <p type="listitem">трудности с языком и речью</p>
@@ -42,6 +44,7 @@
 <p type="listitem">сообщить директору школы, если у ученика имеется такая потребность</p>
 <p>Желательно, чтобы направление в Службу PP являлось результатом сотрудничества между детским садом/школой и родителями. Родители или ученики (старше 15 лет) обязаны дать свое согласие на направление в Службу PP.</p>
 <p>Правила и порядок направления детей/учеников детским садом/школой в Службу PP определяется администрацией муниципалитета/фюльке. Обычно направление в Службу PP осуществляется путем заполнения бланка с направлением. Детский сад/школа прилагает педагогический отчет, в котором характеризуется развитие ребенка/ученика, а также приводятся принятые ранее меры.</p>
+<p xml:lang="nob">Endelig versjon 19.11.2012</p>
 <p>За более подробной информацией о направлении обращайтесь в администрацию муниципалитета (для детских садов и начальных школ) или фюльке (для старших классов).</p>
 <p>Порядок рассмотрения дел</p>
 <p><em type="bold">Проведение проверок </em></p>
@@ -64,10 +67,12 @@
 <p type="listitem">возможности преодоления трудностей, испытываемых учеником, в рамках основной программы обучения</p>
 <p type="listitem">программы, которая сможет обеспечить надлежащий процесс обучения</p>
 <p type="listitem">реалистичные цели обучения ученика</p>
+<p xml:lang="nob">Endelig versjon 19.11.2012</p>
 <p>При составлении экспертной оценки Служба PP обязана советоваться с учеником и/или его родителями и учитывать их мнение.</p>
 <p type="listitem">По завершении составления экспертной оценки (проверки и рекомендаций) родители обязаны</p>
 <p type="listitem">в отношении детей дошкольного возраста определиться дают ли они свое согласие на то, чтобы муниципалитет/владелец детского сада положил экспертную оценку в основу частного решения, а также согласие на принятие муниципалитетом/владельцем детского сада мер, рекомендованных Службой PP</p>
 <p type="listitem">в отношении учеников школ или учеников старше 15 лет определиться дают ли они свое согласие на то, чтобы владелец детского сада/школа положила экспертную оценку в основу частного решения, а также согласие на принятие владельцем детского сада/школой мер, рекомендованных Службой PP</p>
+<p xml:lang="nob">Endelig versjon 19.11.2012</p>
 <p>О Национальной системе поддержки специального образования (Statped)</p>
 <p>При необходимости Служба PP запрашивает государственную дефектологическую поддержку у Statped.</p>
 <p type="listitem">Система Statped</p>
@@ -84,6 +89,7 @@
 <p type="listitem">инициирование и реализацию государственной политики в области образования с тем, чтобы дети, подростки и взрослые имели доступ к высококачественному, равноценному и коррекционно-развивающему обучению в инклюзивном сообществе.</p>
 <p type="listitem">соблюдении мультикультурных элементов в детских садах и в базовом образовании.</p>
 <p type="listitem">повышению качества образовательных программ для представителей языковых меньшинств, и улучшению работы по созданию инклюзивных, мультикультурных сообществ по обучению в детских садах и начальной школе.</p>
+<p xml:lang="nob">Endelig versjon 19.11.2012</p>
 <p>Учителя, школьные руководители, владельцы детских садов и школ, а также педагогический персонал детских садов, составляют центральный контингент для этой деятельности. Центр призван предоставлять содействие сектору высшего образования/образовательным учреждениям, готовящим учителей, в усилиях по повышению уровня компетентности.</p>
 <p>Для получения дополнительной информации, см . http://www.hioa.no/Om-HiOA/NAFO</p>
 </body></document>
