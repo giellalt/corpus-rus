@@ -1,4 +1,6 @@
-<document xml:lang="rus" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>102</wordcount><conversion_status type="standard"/><availability><free/></availability><origFileName>invitation</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Уважаем ____________________________________________________________</p>
+<document xml:lang="rus" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>102</wordcount><conversion_status type="standard"/><availability><free/></availability><origFileName>invitation</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 34357 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Уважаем ____________________________________________________________</p>
 <p>Мурманский областной краеведческий музей приглашает на открытие новой саамской документальной выставки <span type="quote">«Многообразие и культура земли и народа саами»</span> - <span type="quote">«Югкеналшэм cāмь нāрэд культура»</span></p>
 <p>Время проведения: <em type="italic">24 мая 2011 года в 13 часов </em></p>
 <p>Место проведения: Здание Музея по адресу г. <em type="italic">Мурманск, проспект Ленина, д. 90 </em></p>
